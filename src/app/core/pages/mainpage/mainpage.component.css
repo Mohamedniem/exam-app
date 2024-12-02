@@ -1,0 +1,12 @@
+.main-color{
+    background-color:  #F0F4FC;
+    ;
+}
+.top-round{
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+}
+.select-width{
+    width: 27%;
+    border: none !important;
+}

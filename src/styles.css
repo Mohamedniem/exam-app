@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+.btn-auth
+{
+  background-color: #4461F2 !important;
+  color: white
+  ;
+}
+
+::placeholder{
+  /* background: #F9F9F9; */
+  padding: 0;
+  margin: 0;
+  color: #A1A4A9 !important;
+  font-size: small !important;
+
+
+}
+
+.form-control{
+  background-color:#F9F9F9 !important ;
+}
+.auth-head{
+  font-size: 25px !important;
+  font-weight: 700 !important;
+}
